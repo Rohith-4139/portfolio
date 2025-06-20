@@ -18,12 +18,14 @@ A simple and responsive personal portfolio website built using HTML and CSS. Thi
       <a href="#about">About</a>
       <a href="#projects">Projects</a>
       <a href="#contact">Contact</a>
+      <a href="#skills">skills</a>
     </nav>
   </header>
 
   <section id="about">
     <h2>About Me</h2>
-    <p>I’m a 3nd-year B.Tech CSE student specializing in AI & ML at SRMIST. I love building projects in Python, exploring AI, and creating web applications using HTML, CSS, and JavaScript.</p>
+    <p> I love building projects in Python, exploring AI, and creating web applications using HTML, CSS, and JavaScript.
+        I’m a 3nd-year B.Tech CSE student specializing in AI & ML at SRMIST.</p>
   </section>
 
   <section id="projects" class="projects">
@@ -34,6 +36,18 @@ A simple and responsive personal portfolio website built using HTML and CSS. Thi
       <li><strong>Responsive Portfolio Website:</strong> Built using HTML, CSS, and JavaScript.</li>
     </ul>
   </section>
+  
+  <section id="skills">
+    <h2>My Skills </h2>
+     
+      <li><strong>1</strong> Python Basics.</li>
+      <li><strong>2</strong>  HTML Basics.</li>
+       <li><strong>3</strong> CSS Basics.</li>
+      <li><strong>4</strong>  JavaScript Basics.</li>
+    </ul>
+  </section>
+  
+
 
   <section id="contact" class="contact">
     <h2>Contact Me</h2>
@@ -49,3 +63,4 @@ A simple and responsive personal portfolio website built using HTML and CSS. Thi
 
 </body>
 </html>
+
